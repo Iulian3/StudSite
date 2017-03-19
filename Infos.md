@@ -12,3 +12,7 @@ REST
 
 1. https://www.ibm.com/developerworks/webservices/library/ws-restful/
 2. http://stackoverflow.com/questions/671118/what-exactly-is-restful-programming
+
+
+If there's is an information source that you find useful then: branch, make your changes, commit, make a Pull Request and then we
+will discuss why do you think this information is important to know.
