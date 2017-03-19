@@ -33,4 +33,9 @@
            <tr> <td><i>Sfaturi</i> -> Forums</td> <td><i>Atitudine</i> -> Forums</td> </tr>
             <tr> <td><i>Istorii</i> -> Forums</td> <td><i>Probleme</i> -> Forums</td> </tr>
       </tbody>
+    </table>
 
+
+Links:
+1. Here you can learn about formatting in GitHub:
+https://help.github.com/articles/basic-writing-and-formatting-syntax/
