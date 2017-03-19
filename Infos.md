@@ -11,3 +11,4 @@ GitHub Tutorials:
 REST
 
 1. https://www.ibm.com/developerworks/webservices/library/ws-restful/
+2. http://stackoverflow.com/questions/671118/what-exactly-is-restful-programming
