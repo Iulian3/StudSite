@@ -3,11 +3,9 @@ This document will contain different information related to the project, includi
 
 GitHub Tutorials:
 
-1. GitHub basic tutorial
-    https://guides.github.com/activities/hello-world/
+1. [GitHub basic tutorial](https://guides.github.com/activities/hello-world/)
     
-2. Formatting
-    https://help.github.com/articles/about-writing-and-formatting-on-github/
+2. [Text Formatting](https://help.github.com/articles/about-writing-and-formatting-on-github/)
     
     
 REST
