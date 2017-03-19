@@ -35,7 +35,3 @@
       </tbody>
     </table>
 
-
-Links:
-1. Here you can learn about formatting in GitHub:
-https://help.github.com/articles/basic-writing-and-formatting-syntax/
