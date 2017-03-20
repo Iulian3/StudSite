@@ -1,5 +1,5 @@
-1. **Milestone 1**
-  '''
+#1. **Milestone 1**
+  ```
    **TASK-URI**
     *Gandacov
       *[ ] task1
@@ -13,4 +13,4 @@
       *[ ] task1
       *[ ] task2
       *[ ] task3
-  '''
+  ```
