@@ -1,14 +1,13 @@
 # 1.**Milestone 1**  
-    **TASK-URI**
-      - Gandacov
+      * Gandacov
         - [ ] task1
         - [ ] task2
         - [ ] task3
-      - Gavrilov
+      * Gavrilov
         - [ ] task1
         - [ ] task2
         - [ ] task3
-      - Martic
+      * Martic
         - [ ] task1
         - [ ] task2
         - [ ] task3
